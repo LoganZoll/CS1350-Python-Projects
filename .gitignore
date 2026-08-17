@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+SetupInstructionsII-MS.md 2026-08-17
+3 / 7
+*.pyc
+# Editor settings
+.vscode/
+# OS files
+Thumbs.db
+.DS_Store
